@@ -15,3 +15,7 @@ A simple and modern digital agency fully mobile responsive website developed wit
     * Initial Release
 
 
+## ©️ License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
